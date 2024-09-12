@@ -1,0 +1,59 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Alice Smith",
+      "phone": "5551234567",
+      "email": "alice.smith@example.com",
+      "cardId": "abcd1234",
+      "password": "PasswordA1",
+      "confirmPassword": "PasswordA1"
+    },
+    {
+      "id": "2",
+      "name": "Bob Johnson",
+      "phone": "5552345678",
+      "email": "bob.johnson@example.com",
+      "cardId": "efgh5678",
+      "password": "PasswordB2",
+      "confirmPassword": "PasswordB2"
+    },
+    {
+      "id": "3",
+      "name": "Carol Davis",
+      "phone": "5553456789",
+      "email": "carol.davis@example.com",
+      "cardId": "ijkl9012",
+      "password": "PasswordC3",
+      "confirmPassword": "PasswordC3"
+    },
+    {
+      "id": "4",
+      "name": "David Wilson",
+      "phone": "5554567890",
+      "email": "david.wilson@example.com",
+      "cardId": "mnop3456",
+      "password": "PasswordD4",
+      "confirmPassword": "PasswordD4"
+    },
+    {
+      "id": "5",
+      "name": "Eva Martinez",
+      "phone": "5555678901",
+      "email": "Anju@example.com",
+      "cardId": "qrst7890",
+      "password": "Password6",
+      "confirmPassword": "PasswordE5"
+    },
+    
+    {
+      "id": "5",
+      "name": "Eva Martinez",
+      "phone": "5555678901",
+      "email": "teju@gmail.com",
+      "cardId": "Admin123",
+      "password": "Password5",
+      "confirmPassword": "PasswordE5"
+    }
+  ]
+}
